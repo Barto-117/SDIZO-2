@@ -1,0 +1,165 @@
+gestosc 20 dla 10 wierzcholkow, macierz, Dijkstra
+4428
+gestosc 60 dla 10 wierzcholkow, macierz, Dijkstra
+4911
+gestosc 99 dla 10 wierzcholkow, macierz, Dijkstra
+4744
+gestosc 20 dla 20 wierzcholkow, macierz, Dijkstra
+9460
+gestosc 60 dla 20 wierzcholkow, macierz, Dijkstra
+8901
+gestosc 99 dla 20 wierzcholkow, macierz, Dijkstra
+5762
+gestosc 20 dla 30 wierzcholkow, macierz, Dijkstra
+8910
+gestosc 60 dla 30 wierzcholkow, macierz, Dijkstra
+7741
+gestosc 99 dla 30 wierzcholkow, macierz, Dijkstra
+8077
+gestosc 20 dla 40 wierzcholkow, macierz, Dijkstra
+11858
+gestosc 60 dla 40 wierzcholkow, macierz, Dijkstra
+11768
+gestosc 99 dla 40 wierzcholkow, macierz, Dijkstra
+11790
+gestosc 20 dla 50 wierzcholkow, macierz, Dijkstra
+15077
+gestosc 60 dla 50 wierzcholkow, macierz, Dijkstra
+14561
+gestosc 99 dla 50 wierzcholkow, macierz, Dijkstra
+12790
+gestosc 20 dla 60 wierzcholkow, macierz, Dijkstra
+16927
+gestosc 60 dla 60 wierzcholkow, macierz, Dijkstra
+16390
+gestosc 99 dla 60 wierzcholkow, macierz, Dijkstra
+16263
+gestosc 20 dla 70 wierzcholkow, macierz, Dijkstra
+20397
+gestosc 60 dla 70 wierzcholkow, macierz, Dijkstra
+19724
+gestosc 99 dla 70 wierzcholkow, macierz, Dijkstra
+47796
+gestosc 20 dla 10 wierzcholkow, macierz, Ballman-Ford
+3632
+gestosc 60 dla 10 wierzcholkow, macierz, Ballman-Ford
+3334
+gestosc 99 dla 10 wierzcholkow, macierz, Ballman-Ford
+3477
+gestosc 20 dla 20 wierzcholkow, macierz, Ballman-Ford
+61988
+gestosc 60 dla 20 wierzcholkow, macierz, Ballman-Ford
+5563
+gestosc 99 dla 20 wierzcholkow, macierz, Ballman-Ford
+5573
+gestosc 20 dla 30 wierzcholkow, macierz, Ballman-Ford
+8586
+gestosc 60 dla 30 wierzcholkow, macierz, Ballman-Ford
+8065
+gestosc 99 dla 30 wierzcholkow, macierz, Ballman-Ford
+7501
+gestosc 20 dla 40 wierzcholkow, macierz, Ballman-Ford
+11692
+gestosc 60 dla 40 wierzcholkow, macierz, Ballman-Ford
+11662
+gestosc 99 dla 40 wierzcholkow, macierz, Ballman-Ford
+11527
+gestosc 20 dla 50 wierzcholkow, macierz, Ballman-Ford
+50508
+gestosc 60 dla 50 wierzcholkow, macierz, Ballman-Ford
+13900
+gestosc 99 dla 50 wierzcholkow, macierz, Ballman-Ford
+12955
+gestosc 20 dla 60 wierzcholkow, macierz, Ballman-Ford
+17004
+gestosc 60 dla 60 wierzcholkow, macierz, Ballman-Ford
+17207
+gestosc 99 dla 60 wierzcholkow, macierz, Ballman-Ford
+16261
+gestosc 20 dla 70 wierzcholkow, macierz, Ballman-Ford
+20569
+gestosc 60 dla 70 wierzcholkow, macierz, Ballman-Ford
+19446
+gestosc 99 dla 70 wierzcholkow, macierz, Ballman-Ford
+17948
+gestosc 20 dla 10 wierzcholkow, macierz, Prim
+1
+gestosc 60 dla 10 wierzcholkow, macierz, Prim
+2
+gestosc 99 dla 10 wierzcholkow, macierz, Prim
+3
+gestosc 20 dla 20 wierzcholkow, macierz, Prim
+5
+gestosc 60 dla 20 wierzcholkow, macierz, Prim
+8
+gestosc 99 dla 20 wierzcholkow, macierz, Prim
+17
+gestosc 20 dla 30 wierzcholkow, macierz, Prim
+11
+gestosc 60 dla 30 wierzcholkow, macierz, Prim
+29
+gestosc 99 dla 30 wierzcholkow, macierz, Prim
+32
+gestosc 20 dla 40 wierzcholkow, macierz, Prim
+27
+gestosc 60 dla 40 wierzcholkow, macierz, Prim
+61
+gestosc 99 dla 40 wierzcholkow, macierz, Prim
+71
+gestosc 20 dla 50 wierzcholkow, macierz, Prim
+40
+gestosc 60 dla 50 wierzcholkow, macierz, Prim
+98
+gestosc 99 dla 50 wierzcholkow, macierz, Prim
+138
+gestosc 20 dla 60 wierzcholkow, macierz, Prim
+82
+gestosc 60 dla 60 wierzcholkow, macierz, Prim
+169
+gestosc 99 dla 60 wierzcholkow, macierz, Prim
+233
+gestosc 20 dla 70 wierzcholkow, macierz, Prim
+107
+gestosc 60 dla 70 wierzcholkow, macierz, Prim
+293
+gestosc 99 dla 70 wierzcholkow, macierz, Prim
+471
+gestosc 20 dla 10 wierzcholkow, macierz, Kruskal
+10177
+gestosc 60 dla 10 wierzcholkow, macierz, Kruskal
+9864
+gestosc 99 dla 10 wierzcholkow, macierz, Kruskal
+117740
+gestosc 20 dla 20 wierzcholkow, macierz, Kruskal
+8349
+gestosc 60 dla 20 wierzcholkow, macierz, Kruskal
+7064
+gestosc 99 dla 20 wierzcholkow, macierz, Kruskal
+6458
+gestosc 20 dla 30 wierzcholkow, macierz, Kruskal
+191930
+gestosc 60 dla 30 wierzcholkow, macierz, Kruskal
+10134
+gestosc 99 dla 30 wierzcholkow, macierz, Kruskal
+11080
+gestosc 20 dla 40 wierzcholkow, macierz, Kruskal
+42283
+gestosc 60 dla 40 wierzcholkow, macierz, Kruskal
+14226
+gestosc 99 dla 40 wierzcholkow, macierz, Kruskal
+39287
+gestosc 20 dla 50 wierzcholkow, macierz, Kruskal
+62379
+gestosc 60 dla 50 wierzcholkow, macierz, Kruskal
+62821
+gestosc 99 dla 50 wierzcholkow, macierz, Kruskal
+18045
+gestosc 20 dla 60 wierzcholkow, macierz, Kruskal
+22086
+gestosc 60 dla 60 wierzcholkow, macierz, Kruskal
+21628
+gestosc 99 dla 60 wierzcholkow, macierz, Kruskal
+21469
+gestosc 20 dla 70 wierzcholkow, macierz, Kruskal
+228993
+gestosc 60 dla 70 wierzcholkow, macierz, Kruskal

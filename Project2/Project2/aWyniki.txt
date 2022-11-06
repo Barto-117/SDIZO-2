@@ -1,0 +1,336 @@
+gestosc 20 dla 10 wierzcholkow, macierz, Dijkstra
+1
+gestosc 60 dla 10 wierzcholkow, macierz, Dijkstra
+1
+gestosc 99 dla 10 wierzcholkow, macierz, Dijkstra
+1
+gestosc 20 dla 20 wierzcholkow, macierz, Dijkstra
+4
+gestosc 60 dla 20 wierzcholkow, macierz, Dijkstra
+4
+gestosc 99 dla 20 wierzcholkow, macierz, Dijkstra
+3
+gestosc 20 dla 30 wierzcholkow, macierz, Dijkstra
+11
+gestosc 60 dla 30 wierzcholkow, macierz, Dijkstra
+13
+gestosc 99 dla 30 wierzcholkow, macierz, Dijkstra
+12
+gestosc 20 dla 40 wierzcholkow, macierz, Dijkstra
+14
+gestosc 60 dla 40 wierzcholkow, macierz, Dijkstra
+23
+gestosc 99 dla 40 wierzcholkow, macierz, Dijkstra
+27
+gestosc 20 dla 50 wierzcholkow, macierz, Dijkstra
+28
+gestosc 60 dla 50 wierzcholkow, macierz, Dijkstra
+43
+gestosc 99 dla 50 wierzcholkow, macierz, Dijkstra
+35
+gestosc 20 dla 60 wierzcholkow, macierz, Dijkstra
+51
+gestosc 60 dla 60 wierzcholkow, macierz, Dijkstra
+64
+gestosc 99 dla 60 wierzcholkow, macierz, Dijkstra
+44
+gestosc 20 dla 70 wierzcholkow, macierz, Dijkstra
+61
+gestosc 60 dla 70 wierzcholkow, macierz, Dijkstra
+127
+gestosc 99 dla 70 wierzcholkow, macierz, Dijkstra
+56
+gestosc 20 dla 10 wierzcholkow, macierz, Ballman-Ford
+1
+gestosc 60 dla 10 wierzcholkow, macierz, Ballman-Ford
+2
+gestosc 99 dla 10 wierzcholkow, macierz, Ballman-Ford
+3
+gestosc 20 dla 20 wierzcholkow, macierz, Ballman-Ford
+6
+gestosc 60 dla 20 wierzcholkow, macierz, Ballman-Ford
+8
+gestosc 99 dla 20 wierzcholkow, macierz, Ballman-Ford
+8
+gestosc 20 dla 30 wierzcholkow, macierz, Ballman-Ford
+70
+gestosc 60 dla 30 wierzcholkow, macierz, Ballman-Ford
+41
+gestosc 99 dla 30 wierzcholkow, macierz, Ballman-Ford
+22
+gestosc 20 dla 40 wierzcholkow, macierz, Ballman-Ford
+31
+gestosc 60 dla 40 wierzcholkow, macierz, Ballman-Ford
+100
+gestosc 99 dla 40 wierzcholkow, macierz, Ballman-Ford
+44
+gestosc 20 dla 50 wierzcholkow, macierz, Ballman-Ford
+70
+gestosc 60 dla 50 wierzcholkow, macierz, Ballman-Ford
+109
+gestosc 99 dla 50 wierzcholkow, macierz, Ballman-Ford
+68
+gestosc 20 dla 60 wierzcholkow, macierz, Ballman-Ford
+99
+gestosc 60 dla 60 wierzcholkow, macierz, Ballman-Ford
+172
+gestosc 99 dla 60 wierzcholkow, macierz, Ballman-Ford
+120
+gestosc 20 dla 70 wierzcholkow, macierz, Ballman-Ford
+100
+gestosc 60 dla 70 wierzcholkow, macierz, Ballman-Ford
+245
+gestosc 99 dla 70 wierzcholkow, macierz, Ballman-Ford
+113
+gestosc 20 dla 10 wierzcholkow, macierz, Prim
+1
+gestosc 60 dla 10 wierzcholkow, macierz, Prim
+2
+gestosc 99 dla 10 wierzcholkow, macierz, Prim
+2
+gestosc 20 dla 20 wierzcholkow, macierz, Prim
+3
+gestosc 60 dla 20 wierzcholkow, macierz, Prim
+8
+gestosc 99 dla 20 wierzcholkow, macierz, Prim
+9
+gestosc 20 dla 30 wierzcholkow, macierz, Prim
+9
+gestosc 60 dla 30 wierzcholkow, macierz, Prim
+28
+gestosc 99 dla 30 wierzcholkow, macierz, Prim
+31
+gestosc 20 dla 40 wierzcholkow, macierz, Prim
+20
+gestosc 60 dla 40 wierzcholkow, macierz, Prim
+52
+gestosc 99 dla 40 wierzcholkow, macierz, Prim
+69
+gestosc 20 dla 50 wierzcholkow, macierz, Prim
+35
+gestosc 60 dla 50 wierzcholkow, macierz, Prim
+98
+gestosc 99 dla 50 wierzcholkow, macierz, Prim
+131
+gestosc 20 dla 60 wierzcholkow, macierz, Prim
+92
+gestosc 60 dla 60 wierzcholkow, macierz, Prim
+197
+gestosc 99 dla 60 wierzcholkow, macierz, Prim
+246
+gestosc 20 dla 70 wierzcholkow, macierz, Prim
+111
+gestosc 60 dla 70 wierzcholkow, macierz, Prim
+245
+gestosc 99 dla 70 wierzcholkow, macierz, Prim
+349
+gestosc 20 dla 10 wierzcholkow, macierz, Kruskal
+1
+gestosc 60 dla 10 wierzcholkow, macierz, Kruskal
+3
+gestosc 99 dla 10 wierzcholkow, macierz, Kruskal
+3
+gestosc 20 dla 20 wierzcholkow, macierz, Kruskal
+5
+gestosc 60 dla 20 wierzcholkow, macierz, Kruskal
+10
+gestosc 99 dla 20 wierzcholkow, macierz, Kruskal
+17
+gestosc 20 dla 30 wierzcholkow, macierz, Kruskal
+15
+gestosc 60 dla 30 wierzcholkow, macierz, Kruskal
+34
+gestosc 99 dla 30 wierzcholkow, macierz, Kruskal
+47
+gestosc 20 dla 40 wierzcholkow, macierz, Kruskal
+32
+gestosc 60 dla 40 wierzcholkow, macierz, Kruskal
+68
+gestosc 99 dla 40 wierzcholkow, macierz, Kruskal
+87
+gestosc 20 dla 50 wierzcholkow, macierz, Kruskal
+53
+gestosc 60 dla 50 wierzcholkow, macierz, Kruskal
+132
+gestosc 99 dla 50 wierzcholkow, macierz, Kruskal
+188
+gestosc 20 dla 60 wierzcholkow, macierz, Kruskal
+76
+gestosc 60 dla 60 wierzcholkow, macierz, Kruskal
+174
+gestosc 99 dla 60 wierzcholkow, macierz, Kruskal
+264
+gestosc 20 dla 70 wierzcholkow, macierz, Kruskal
+127
+gestosc 60 dla 70 wierzcholkow, macierz, Kruskal
+270
+gestosc 99 dla 70 wierzcholkow, macierz, Kruskal
+418
+gestosc 20 dla 10 wierzcholkow, lista, Dijkstra
+2
+gestosc 60 dla 10 wierzcholkow, lista, Dijkstra
+1
+gestosc 99 dla 10 wierzcholkow, lista, Dijkstra
+1
+gestosc 20 dla 20 wierzcholkow, lista, Dijkstra
+2
+gestosc 60 dla 20 wierzcholkow, lista, Dijkstra
+3
+gestosc 99 dla 20 wierzcholkow, lista, Dijkstra
+7
+gestosc 20 dla 30 wierzcholkow, lista, Dijkstra
+6
+gestosc 60 dla 30 wierzcholkow, lista, Dijkstra
+12
+gestosc 99 dla 30 wierzcholkow, lista, Dijkstra
+13
+gestosc 20 dla 40 wierzcholkow, lista, Dijkstra
+9
+gestosc 60 dla 40 wierzcholkow, lista, Dijkstra
+17
+gestosc 99 dla 40 wierzcholkow, lista, Dijkstra
+18
+gestosc 20 dla 50 wierzcholkow, lista, Dijkstra
+14
+gestosc 60 dla 50 wierzcholkow, lista, Dijkstra
+23
+gestosc 99 dla 50 wierzcholkow, lista, Dijkstra
+26
+gestosc 20 dla 60 wierzcholkow, lista, Dijkstra
+23
+gestosc 60 dla 60 wierzcholkow, lista, Dijkstra
+36
+gestosc 99 dla 60 wierzcholkow, lista, Dijkstra
+39
+gestosc 20 dla 70 wierzcholkow, lista, Dijkstra
+38
+gestosc 60 dla 70 wierzcholkow, lista, Dijkstra
+62
+gestosc 99 dla 70 wierzcholkow, lista, Dijkstra
+52
+gestosc 20 dla 10 wierzcholkow, lista, Bellman-Ford
+1
+gestosc 60 dla 10 wierzcholkow, lista, Bellman-Ford
+2
+gestosc 99 dla 10 wierzcholkow, lista, Bellman-Ford
+4
+gestosc 20 dla 20 wierzcholkow, lista, Bellman-Ford
+7
+gestosc 60 dla 20 wierzcholkow, lista, Bellman-Ford
+19
+gestosc 99 dla 20 wierzcholkow, lista, Bellman-Ford
+30
+gestosc 20 dla 30 wierzcholkow, lista, Bellman-Ford
+23
+gestosc 60 dla 30 wierzcholkow, lista, Bellman-Ford
+69
+gestosc 99 dla 30 wierzcholkow, lista, Bellman-Ford
+112
+gestosc 20 dla 40 wierzcholkow, lista, Bellman-Ford
+59
+gestosc 60 dla 40 wierzcholkow, lista, Bellman-Ford
+184
+gestosc 99 dla 40 wierzcholkow, lista, Bellman-Ford
+267
+gestosc 20 dla 50 wierzcholkow, lista, Bellman-Ford
+111
+gestosc 60 dla 50 wierzcholkow, lista, Bellman-Ford
+334
+gestosc 99 dla 50 wierzcholkow, lista, Bellman-Ford
+561
+gestosc 20 dla 60 wierzcholkow, lista, Bellman-Ford
+200
+gestosc 60 dla 60 wierzcholkow, lista, Bellman-Ford
+591
+gestosc 99 dla 60 wierzcholkow, lista, Bellman-Ford
+902
+gestosc 20 dla 70 wierzcholkow, lista, Bellman-Ford
+324
+gestosc 60 dla 70 wierzcholkow, lista, Bellman-Ford
+885
+gestosc 99 dla 70 wierzcholkow, lista, Bellman-Ford
+1480
+gestosc 20 dla 10 wierzcholkow, lista, Prim
+1
+gestosc 60 dla 10 wierzcholkow, lista, Prim
+2
+gestosc 99 dla 10 wierzcholkow, lista, Prim
+2
+gestosc 20 dla 20 wierzcholkow, lista, Prim
+3
+gestosc 60 dla 20 wierzcholkow, lista, Prim
+7
+gestosc 99 dla 20 wierzcholkow, lista, Prim
+10
+gestosc 20 dla 30 wierzcholkow, lista, Prim
+7
+gestosc 60 dla 30 wierzcholkow, lista, Prim
+18
+gestosc 99 dla 30 wierzcholkow, lista, Prim
+30
+gestosc 20 dla 40 wierzcholkow, lista, Prim
+15
+gestosc 60 dla 40 wierzcholkow, lista, Prim
+41
+gestosc 99 dla 40 wierzcholkow, lista, Prim
+65
+gestosc 20 dla 50 wierzcholkow, lista, Prim
+29
+gestosc 60 dla 50 wierzcholkow, lista, Prim
+82
+gestosc 99 dla 50 wierzcholkow, lista, Prim
+125
+gestosc 20 dla 60 wierzcholkow, lista, Prim
+50
+gestosc 60 dla 60 wierzcholkow, lista, Prim
+140
+gestosc 99 dla 60 wierzcholkow, lista, Prim
+215
+gestosc 20 dla 70 wierzcholkow, lista, Prim
+81
+gestosc 60 dla 70 wierzcholkow, lista, Prim
+231
+gestosc 99 dla 70 wierzcholkow, lista, Prim
+335
+gestosc 20 dla 10 wierzcholkow, lista, Kruskal
+1
+gestosc 60 dla 10 wierzcholkow, lista, Kruskal
+2
+gestosc 99 dla 10 wierzcholkow, lista, Kruskal
+3
+gestosc 20 dla 20 wierzcholkow, lista, Kruskal
+5
+gestosc 60 dla 20 wierzcholkow, lista, Kruskal
+9
+gestosc 99 dla 20 wierzcholkow, lista, Kruskal
+14
+gestosc 20 dla 30 wierzcholkow, lista, Kruskal
+15
+gestosc 60 dla 30 wierzcholkow, lista, Kruskal
+29
+gestosc 99 dla 30 wierzcholkow, lista, Kruskal
+45
+gestosc 20 dla 40 wierzcholkow, lista, Kruskal
+30
+gestosc 60 dla 40 wierzcholkow, lista, Kruskal
+60
+gestosc 99 dla 40 wierzcholkow, lista, Kruskal
+92
+gestosc 20 dla 50 wierzcholkow, lista, Kruskal
+47
+gestosc 60 dla 50 wierzcholkow, lista, Kruskal
+115
+gestosc 99 dla 50 wierzcholkow, lista, Kruskal
+180
+gestosc 20 dla 60 wierzcholkow, lista, Kruskal
+76
+gestosc 60 dla 60 wierzcholkow, lista, Kruskal
+202
+gestosc 99 dla 60 wierzcholkow, lista, Kruskal
+308
+gestosc 20 dla 70 wierzcholkow, lista, Kruskal
+106
+gestosc 60 dla 70 wierzcholkow, lista, Kruskal
+271
+gestosc 99 dla 70 wierzcholkow, lista, Kruskal
+411
